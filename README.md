@@ -8,7 +8,7 @@ I've created a README generator that will reduce the stress for Engineers to mak
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [VideoInstructions](#VideoInstructions)
+- [Instructions](#Instructions)
 
 ## Installation
 
@@ -49,7 +49,7 @@ Guidelines for contributing to the project.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Video Instructions
+## Instructions
 
 Here is the link on how to intall and use the README Generator
 
