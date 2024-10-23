@@ -8,7 +8,7 @@ I've created a README generator that will reduce the stress for Engineers to mak
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [VideoInstructions] (#VideoInstructions)
+- [VideoInstructions](#VideoInstructions)
 
 ## Installation
 
