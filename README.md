@@ -51,6 +51,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Instructions
 
-Here is the link on how to intall and use the README Generator
+Here is the link on how to install and use the README Generator
 
 https://drive.google.com/file/d/12r7PIGh9BNZLhnZWUuDZuvC746KhBjdD/view
