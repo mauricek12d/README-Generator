@@ -1,56 +1,47 @@
-# README Generator
+# 📘 README Generator
 
-I've created a README generator that will reduce the stress for Engineers to make one from scratch. When generated all you need to do is fill out the questions and all the information you provide will be formatted into a proper README for your Github Repository.  
 
-## Table of Contents
+A command-line application that dynamically generates a professional `README.md` file based on user input using Node.js and Inquirer.js. This tool helps developers streamline documentation by producing consistent, clean, and informative project READMEs with ease.
 
+
+## 🔧 Table of Contents
+
+
+- [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Demo](#demo)
+- [Technologies Used](#technologies-used)
+- [Folder Structure](#folder-structure)
 - [Contributing](#contributing)
 - [License](#license)
-- [Instructions](#Instructions)
+- [Contact](#contact)
 
-## Installation
 
-Instructions on how to install and set up the project.
+## ✅ Features
+
+
+- Interactive CLI using **Inquirer.js**
+- Automatically generates a complete `README.md` file
+- Prompts include:
+ - Project Title
+ - Description
+ - Installation Instructions
+ - Usage Guidelines
+ - Contribution Instructions
+ - Testing Information
+ - License Selection (MIT, Apache, GPL, etc.)
+ - GitHub Username and Email
+- Auto-generates license badge at the top
+
+
+## 📦 Installation
+
+
+To install and set up the project locally:
+
 
 ```bash
-# Clone the repository
-git clone //https://github.com/mauricek12d/README-Generator
-
-# Navigate to the project directory
+git clone https://github.com/mauricek12d/README-Generator.git
 cd README-Generator
-
-# Install dependencies
 npm install
-```
-
-## Usage
-
-To save you time on thinking what information to provide, all you need to do is answer the questions that are prompted with the Information you want your peers to see on how to use your code. 
-
-```bash
-# Run the application
-npm start
-```
-
-## Contributing
-
-Guidelines for contributing to the project.
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes.
-4. Commit your changes (`git commit -m 'Add some feature'`).
-5. Push to the branch (`git push origin feature-branch`).
-6. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Instructions
-
-Here is the link on how to install and use the README Generator
-
-https://drive.google.com/file/d/1Fy3beZkov2bTRlAmcCbEinpQbRbUiige/view
