@@ -45,3 +45,86 @@ To install and set up the project locally:
 git clone https://github.com/mauricek12d/README-Generator.git
 cd README-Generator
 npm install
+
+```
+
+
+## 🚀 Usage
+
+
+To generate a new `README.md`, simply run:
+
+
+```bash
+node index.js
+```
+
+
+Follow the CLI prompts. The generated README file will appear in the root directory (or as configured).
+
+
+## 🎥 Demo
+
+
+![Demo Screenshot](./assets/screenshot.png)
+
+
+👉 *(Optional)* Add a walkthrough video here: 
+[Watch the demo](#)
+
+
+## 🛠️ Technologies Used
+
+
+- [Node.js](https://nodejs.org/)
+- [Inquirer.js](https://www.npmjs.com/package/inquirer)
+- JavaScript (ES6)
+- Git & GitHub
+
+
+## 📁 Folder Structure
+
+
+```
+README-Generator/
+├── assets/                  # Screenshots, demo images
+├── index.js                 # CLI logic
+├── utils/
+│   └── generateMarkdown.js  # Markdown template logic
+├── package.json
+└── README.md
+```
+
+
+## 🤝 Contributing
+
+
+Contributions are welcome! 
+
+To contribute:
+
+
+1. Fork the repository 
+2. Create a feature branch (`git checkout -b feature/YourFeature`) 
+3. Commit your changes (`git commit -m 'Add feature'`) 
+4. Push to GitHub (`git push origin feature/YourFeature`) 
+5. Submit a Pull Request
+
+
+## 📄 License
+
+
+This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE) file for more details.
+
+
+## 📬 Contact
+
+
+**Maurice Zuniga** 
+🔗 [LinkedIn](https://www.linkedin.com/in/maurice-zuniga424/) 
+💻 [GitHub](https://github.com/mauricek12d) 
+📧 [YourEmail@example.com]
+
+
+> ✨ Created with care to help developers ship faster and document better.
+
